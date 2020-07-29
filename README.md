@@ -5,24 +5,24 @@
 
 ## covered here.
 
-*added theme support*
+:point_right:*added theme support*
 
-*added nav menus*
+:point_right:*added nav menus*
 
-*added dynamic sidebar*
+:point_right:*added dynamic sidebar*
 
-*css and js link with functions.php*
+:point_right:*css and js link with functions.php*
 
-*unique pagination*
+:point_right:*unique pagination*
 
-*working with cmb2 frame work*
+:point_right:*working with cmb2 frame work*
 
 
 ## feature
 
-*custom post type*
+:point_right:*custom post type*
 
-*custom box any where*
+:point_right:*custom box any where*
 
-*using shortcode easily design*
+:point_right:*using shortcode easily design*
 
